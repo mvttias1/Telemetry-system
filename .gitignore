@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# .NET
+bin/
+obj/
+Properties/launchSettings.json
+
+# SQLite local
+*.db
+*.db-shm
+*.db-wal
+
+# VS Code
+.vscode/
